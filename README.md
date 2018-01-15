@@ -1,2 +1,2 @@
 # TPwsrs
-Web Services avec REST FULL Tomcat et Jersy
+Web Services REST FULL en utilisant Eclipse, Tomcat et Jersy
